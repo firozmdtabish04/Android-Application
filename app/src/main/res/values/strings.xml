@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Output: </string>
+    <string name="first">Enter Your First Number</string>
+    <string name="second">Enter Your Second Number</string>
+    <string name="Percentage">%</string>
+</resources>
